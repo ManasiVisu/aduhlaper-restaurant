@@ -1,2 +1,2 @@
 # aduhlaper-restaurant
-<i class="icon ion-ios-arrow-back"></i>
+<ion-icon name="arrow-back"></ion-icon>
